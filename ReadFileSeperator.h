@@ -25,3 +25,4 @@ class ReadFileSeparator{ //File parser class
 			return tmp_Characters; //Return the sequence of characters from the sf:String
 		}
 };
+ 
